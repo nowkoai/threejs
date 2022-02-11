@@ -1,4 +1,4 @@
-import * as THREE from "https://nowkoai.github.io/build/three.module.js ";
+import * as THREE from "https://nowkoai.github.io/threejs/build/three.js";
 import { OrbitControls } from "https://nowkoai.github.io/controls/OrbitControls.js";
 import GUI from 'https://cdn.jsdelivr.net/npm/lil-gui@0.16/+esm';
 
